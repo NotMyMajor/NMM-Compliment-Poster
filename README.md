@@ -24,6 +24,10 @@ Inspired by the random light-up compliment poster by Evan and Katelyn on YouTube
 
 - If the page contents do not resize with the page, just resize again and it should correct itself.
 
+### Known Issues that I'm Working On:
+
+- There's a slight ghosting issue when you generate a new compliment after resizing the window. I'm still working on fixing that. It shows up on screen recordings more so than in real life for some reason.
+
 ## If you use my code to do something fun or cool, share it with me! Also, credit is nice to have too.
 ## Enjoy!
 
