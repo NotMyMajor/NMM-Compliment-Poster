@@ -28,6 +28,8 @@ Inspired by the random light-up compliment poster by Evan and Katelyn on YouTube
 
 - There's a slight ghosting issue when you generate a new compliment after resizing the window. I'm still working on fixing that. It shows up on screen recordings more so than in real life for some reason.
 
+- Resizing the window again after generating the compliment gets rid of the ghosting.
+
 ## If you use my code to do something fun or cool, share it with me! Also, credit is nice to have too.
 ## Enjoy!
 
