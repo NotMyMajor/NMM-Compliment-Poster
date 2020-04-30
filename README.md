@@ -33,6 +33,10 @@ Inspired by the random light-up compliment poster by Evan and Katelyn on YouTube
 ## If you use my code to do something fun or cool, share it with me! Also, credit is nice to have too.
 ## Enjoy!
 
+## The Evan and Katelyn video that inspired this project:
+
+### https://youtu.be/LuoW-qV5oPQ
+
 ## Find NotMyMajor on:
 
 YouTube: https://www.youtube.com/channel/UC3AAzOir9-2zWmsJFtfxhcw
