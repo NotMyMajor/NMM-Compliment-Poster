@@ -10,7 +10,7 @@ Inspired by the random light-up compliment poster by Evan and Katelyn on YouTube
 
 - I'll leave the actual python code in this repository, but it's really just there if you want to mess around with it.
 
-- The installer will NOT generate a desktop shortcut automatically so please make sure to go to the installation path and make a desktop shortcut if you want one. The default installation path is under C://Program Files (x86)/NMMComplimentPoster. Just navigate to that folder and right click the application file and select send to desktop (shortcut).
+- The installer will NOT generate a desktop shortcut automatically so please make sure to go to the installation path and make a desktop shortcut if you want one. The default installation path is under C://Program Files (x86)/NMMComplimentPoster. Just navigate to that folder and right click the application file and select send to desktop (shortcut). There are a lot of files in that folder! I promise that the application file (it should be a .exe file) is somewhere in there!
 
 - Your browser and computer will both probably try to warn you that the installer is not to be trusted. Yes I am not a known app publisher. No my installer will not kill your computer. I promise.
 
