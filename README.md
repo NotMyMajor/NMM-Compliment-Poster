@@ -31,7 +31,7 @@ Inspired by the random light-up compliment poster by Evan and Katelyn on YouTube
 - Resizing the window again after generating the compliment gets rid of the ghosting.
 
 ## If you use my code to do something fun or cool, share it with me! Also, credit is nice to have too.
-# Enjoy!
+### Enjoy!
 
 ## The Evan and Katelyn video that inspired this project:
 
