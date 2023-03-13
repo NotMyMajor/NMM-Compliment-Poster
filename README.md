@@ -3,10 +3,7 @@ Inspired by the random light-up compliment poster by Evan and Katelyn on YouTube
 
 ### NMM has upgraded! I actually sort of learned how to make exe files and installers so now there is a fancy new installer you can download! Yay!
 
-### Unfortunately, the installer and .zip file were too big to upload to GitHub. Whoops! I'll have to work on cutting those file sizes down. Not to worry though! You can still download the installer or .zip file from the link below.
-
-### Installer: https://drive.google.com/file/d/10n6Vs3ltB4EhLUArP6x58PwUvrXHQXjf/view?usp=sharing
-### .zip File: https://drive.google.com/file/d/1y1TPa5ZFNJaMO2xSJvuYJ_EnsGZ5ZGbY/view?usp=sharing
+### See Releases for the installer!
 
 - I'll leave the actual python code in this repository, but it's really just there if you want to mess around with it.
 
